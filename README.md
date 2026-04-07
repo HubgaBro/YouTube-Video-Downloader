@@ -5,4 +5,4 @@ The downloaded music or videos are for personal use only, and do not make any in
 
 # Downloads
 [Latest Release](https://github.com/HubgaBro/YouTube-Video-Downloader/releases/tag/v1.0))  
-[Releases](https://github.com/HubgaBro/YouTube-Video-Exporter/releases)
+[Releases](https://github.com/HubgaBro/YouTube-Video-Downloader/releases)
