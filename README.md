@@ -4,5 +4,5 @@
 The downloaded music or videos are for personal use only, and do not make any infringement.
 
 # Downloads
-[Latest Release](https://github.com/HubgaBro/YouTube-Video-Downloader/releases/tag/v1.0))  
+[Latest Release](https://github.com/HubgaBro/YouTube-Video-Downloader/releases/tag/1.0.1)  
 [Releases](https://github.com/HubgaBro/YouTube-Video-Downloader/releases)
